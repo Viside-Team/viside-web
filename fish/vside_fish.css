@@ -1,0 +1,228 @@
+* {
+  list-style: none;
+  text-decoration: none;
+  border-collapse: collapse;
+  margin: 0px;
+  padding: 0px;
+  color: black;
+  word-wrap: break-word;
+}
+
+main {
+  width: 100%;
+  margin: auto;
+}
+
+img {
+  width: 100%;
+  margin: auto;
+  vertical-align: bottom;
+}
+
+.main_contents {
+  width: 100%;
+  margin: auto;
+  background: #fbfdfe;
+}
+
+.Buy {
+  padding-top: 20px;
+  padding-bottom: 56px;
+  padding-left: calc(100% - 148px);
+}
+
+.book {
+  width: 78.5%;
+  margin: auto;
+  padding-top: 80px;
+}
+
+.buyLink {
+  width: 128px;
+  height: 44px;
+  background: #23242a;
+  box-shadow: 0px 4px 8px rgba(46, 49, 56, 0.2);
+  border-radius: 18px;
+  display: flex;
+}
+
+.bookIcon {
+  width: 24px;
+  height: 18px;
+  background-size: cover;
+  background-position: center;
+  background-image: url(book-img/ic_book.png);
+  margin: 13px 7px 13px 15px;
+}
+
+.buyNow {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 18px;
+  margin-top: 13px;
+}
+
+.a_1 {
+  color: #ffffff;
+}
+
+.bold_text1 {
+  width: calc(100% - 40px);
+  margin: auto;
+  font-family: 'Spoqa Han Sans Neo', 'sans-serif';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 20px;
+  color: #17181c;
+}
+
+.book-info {
+  margin-left: 14px;
+}
+
+.small-text {
+  margin: 14px 0 36px 0;
+  height: 20px;
+  width: 203px;
+  display: flex;
+  background-color: #edf7ff;
+}
+
+.author {
+  padding: 1.63px 8px 0.37px 6px;
+  font-family: 'Spoqa Han Sans Neo', 'sans-serif';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  color: #454954;
+}
+
+.center-border {
+  width: 8px;
+  height: 12px;
+  margin-top: 4px;
+  margin-bottom: 4px;
+  border-left: 1px solid #ffffff;
+}
+
+.publisher {
+  padding: 1.63px 6px 0.37px 0px;
+  font-family: 'Spoqa Han Sans Neo', 'sans-serif';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  color: #454954;
+}
+
+.text {
+  width: calc(100% - 40px);
+  font-family: 'Spoqa Han Sans Neo', 'sans-serif';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  color: #23242a;
+  margin: auto;
+}
+
+.blue-text {
+  width: calc(100% - 40px);
+  font-family: 'Spoqa Han Sans Neo', 'sans-serif';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  color: #17738f;
+  margin: auto;
+  padding-bottom: 34px;
+}
+
+.design_1 {
+  height: 295px;
+  background-image: url(book-img/design_1.png);
+  background-position: center;
+  background-size: cover;
+  margin-bottom: -50px;
+  margin-top: -15px;
+}
+
+.design_2 {
+  height: 262px;
+  background-image: url(book-img/design_2.png);
+  background-position: center;
+  background-size: cover;
+  margin-top: -148px;
+  margin-bottom: 48px;
+}
+
+.small-text2 {
+  width: calc(100% - 40px);
+  margin: auto;
+  justify-content: flex-end;
+  padding-top: 20px;
+  padding-bottom: 72px;
+  display: flex;
+}
+
+.editior {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 17.07px;
+  padding-right: 3px;
+}
+
+.name {
+  font-family: 'Spoqa Han Sans Neo', 'sans-serif';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17.53px;
+}
+
+.musicLink {
+  background: #f3f6fa;
+  width: 100%;
+  height: 41px;
+  display: flex;
+}
+
+.linkIcon {
+  width: 15.75px;
+  height: 8.16px;
+  background-size: cover;
+  background-position: center;
+  background-image: url(book-img/ic_link.png);
+  margin: 17px 9.25px 15.84px 21px;
+}
+
+.youtubeLink {
+  margin-top: 14px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  font-size: 10px;
+  line-height: 12px;
+}
+
+.a_2 {
+  color: #454954;
+  padding-bottom: 2px;
+  border-bottom: 0.5px solid #8fbee4;
+}
+
+.music {
+  padding: 0 0 24px 0;
+}
+
+.music-text {
+  padding-bottom: 92px;
+  width: calc(100% - 40px);
+  font-family: 'Spoqa Han Sans Neo', 'sans-serif';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  color: #23242a;
+  margin: auto;
+}
+
+.bold {
+  font-weight: 500;
+}
